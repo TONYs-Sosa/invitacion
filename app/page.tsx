@@ -128,7 +128,7 @@ export default function InvitacionBoda() {
           <div className="space-y-8">
             <div>
               <p className="text-[10px] uppercase tracking-[0.3em] text-stone-400 mb-4 font-sans">Padres del Novio</p>
-              <p className="text-xl font-light text-stone-700">† José Hernesto Nochebuena</p>
+              <p className="text-xl font-light text-stone-700">† José Ernesto Nochebuena</p>
               <p className="text-xl font-light text-stone-700">Maria Elvia Hernández</p>
             </div>
           </div>
