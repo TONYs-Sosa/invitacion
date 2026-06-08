@@ -270,7 +270,7 @@ export default function InvitacionBoda() {
         
         {/* Enlace de WhatsApp Configurado */}
         <a 
-          href="https://wa.me/525551599212?text=Claro%20que%20asisto%2C%20no%20me%20lo%20perder%C3%ADa%20por%20nada." 
+          href="https://wa.me/5255555555?text=Claro%20que%20asisto%2C%20no%20me%20lo%20perder%C3%ADa%20por%20nada." 
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-3 bg-[#25D366] text-white px-10 py-5 rounded-full font-sans tracking-wide hover:shadow-xl transition-all hover:scale-105"
